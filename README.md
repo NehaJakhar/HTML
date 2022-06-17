@@ -1,2 +1,2 @@
-# frontend_html
+# HTML
 This contains HTML source syntaxes and examples
