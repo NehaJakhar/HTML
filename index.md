@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
+<<<<<<< HEAD
 You can use the [editor on GitHub](https://github.com/Neha-Jakhar/HTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+=======
+You can use the [editor on GitHub](https://github.com/NehaJakhar/HTML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+>>>>>>> 71bc5030dc97b3b4c91e3b1b88994a448104feb0
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +34,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
+<<<<<<< HEAD
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neha-Jakhar/HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+=======
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NehaJakhar/HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+>>>>>>> 71bc5030dc97b3b4c91e3b1b88994a448104feb0
 
 ### Support or Contact
 
