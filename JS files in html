@@ -1,0 +1,37 @@
+Javascipt codes can be added to html file by  2ways:
+1. by putting the js code in " <script> </script> " syntax
+  Example: 
+
+create a  html file "index. html"
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Empty Page</title>
+    <script 
+    console.log("Hello, World!");
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
+  
+  
+2. by referring a js file using "src"
+  Example: 
+ 
+create a html file "index.html"
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Empty Page</title>
+    <script src="main.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
+
+create a js file "main.js"
+
+console.log("Hello, World!");
