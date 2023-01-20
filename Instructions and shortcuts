@@ -1,3 +1,5 @@
 Ctrl + O  ---> open existing documents (windows)
 F12   -------> open developer tools on  a browser (Windows operating system, Internet Explorer and Edge)
 Ctrl + shift + I -------> open developer tools  in Windows and Linux operating systems, all common browsers except Internet Explorer and Edge
+
+about:blank ---> This is a pseudo address that tells your browser to generate and load a minimal blank HTML page.(you can type this in address bar of your browser)
